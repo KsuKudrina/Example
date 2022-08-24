@@ -1,4 +1,5 @@
 ﻿//Используем if / else
+/*
 Console.Write("Введите имя пользователя: ");
 string username = Console.ReadLine();
 
@@ -11,3 +12,4 @@ else
     Console.Write("Привет, ");
     Console.WriteLine(username);
 }
+*/
